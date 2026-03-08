@@ -19,3 +19,16 @@ This game will continue until the actual number is guessed by the user.
 ## Technologies Used
 - C++
 - Standard Library for C++ (`iostream`, `cstdlib`, `ctime`)
+
+## Example Output
+
+Guess the number between 1 and 100
+
+Enter your guess: 50
+Too high!
+
+Enter your guess: 20
+Too low!
+
+Enter your guess: 35
+Correct! You guessed it!
